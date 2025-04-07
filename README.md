@@ -1,16 +1,14 @@
-## Hi there 👋
+# welcome ☕
 
-<!--
-**looka-n/looka-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <b>Lorem ipsum</b>
+## Skills
+## Projects
 
-Here are some ideas to get you started:
+<h2 align="center">Stats</h2>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![looka-n's Stats](https://github-readme-stats.vercel.app/api?username=looka-n&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<br>
+[![looka-n's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=looka-n&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+</div>

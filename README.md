@@ -5,16 +5,28 @@
 #### Let's get to know each other.
 nguyenlucasv@gmail.com
 ## Skills
-#### Languages
-Python, C++, HTML, CSS
-#### Mobile/Web Dev
-React Native, Node.js, Firebase, MongoDB, Expo Go
-#### Tooling
-GitHub, Docker, WSL, SSH
-#### Design and Planning
-Figma, Trello
-#### Editors
-Neovim, VS Code
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logoColor=white&logo=python)
+![C++](https://img.shields.io/badge/-C++-555?style=flat&logoColor=white&logo=cplusplus)
+![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logoColor=white&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logoColor=white&logo=css)\
+**Mobile/Web Dev:**  
+![React](https://img.shields.io/badge/-React-555?style=flat&logoColor=white&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logoColor=white&logo=nodedotjs)
+![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logoColor=white&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logoColor=white&logo=mongodb)
+![Expo Go](https://img.shields.io/badge/-Expo_Go-555?style=flat&logoColor=white&logo=expo)\
+**Tooling:**  
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logoColor=white&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logoColor=white&logo=docker)
+![WSL](https://img.shields.io/badge/-WSL-555?style=flat&logoColor=white&logo=linux)
+![SSH](https://img.shields.io/badge/-SSH-555?style=flat&logoColor=white&logo=enpass)\
+**Design and Planning:**  
+![Figma](https://img.shields.io/badge/-Figma-555?style=flat&logoColor=white&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logoColor=white&logo=trello)\
+**Editors:**  
+![Neovim](https://img.shields.io/badge/-Neovim-555?style=flat&logoColor=white&logo=neovim)
+![VSCode](https://img.shields.io/badge/-VSCode-555?style=flat&logoColor=white&logo=expo)
 ## Projects
 
 <h2 align="center">Activity</h2>

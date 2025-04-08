@@ -1,8 +1,16 @@
-# welcome ☕
-
+# welcome ☕🌿
+### About Me
 > <b>Lorem ipsum</b>
-### Let's get to know each other
+### Let's get to know each other.
+nguyenlucasv@gmail.com
 ## Skills
+#### Languages
+- Python
+- C++
+- Javascript
+- HTML/CSS
+#### Tooling
+- 
 ## Projects
 
 <h2 align="center">Activity</h2>

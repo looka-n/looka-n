@@ -1,15 +1,17 @@
 # 𝑤𝑒𝑙𝑐𝑜𝑚𝑒 ☕🌿
-[![](./assets/banner.png)](#)
+[![Welcome](./assets/banner.png)](#)
+
 <div align="center">
 <pre>
-  Lorem ipsum • dolor sit • amet
-  consectetur • adipiscing • elit
-  sed do • eiusmod • tempor • incididunt
+  💻 full-stack dev • content creator
+  i am curious
+  i like to create
+  🍄 code • games • art • food • etc
 </pre>
 </div>
 
 ### ABOUT ME
-> <b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b>
+> <b>Full-stack developer, driven by a constant desire to learn, design, and create. I find deep value in trying to understand how things work and using that knowledge to build something personal and meaningful to me. Learning is not just a step to overcome, it is a nonstop effort. I'm always striving to do more, to explore new ideas, and to turn my curiosity into "something".</b>
 #### Let's get to know each other.
 nguyenlucasv@gmail.com
 ___
@@ -32,10 +34,7 @@ ___
 ![SSH](https://img.shields.io/badge/-SSH-555?style=flat&logoColor=white&logo=enpass)\
 **Design and Planning:**  
 ![Figma](https://img.shields.io/badge/-Figma-555?style=flat&logoColor=white&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logoColor=white&logo=trello)\
-**Editors:**  
-![Neovim](https://img.shields.io/badge/-Neovim-555?style=flat&logoColor=white&logo=neovim)
-![VSCode](https://img.shields.io/badge/-VSCode-555?style=flat&logoColor=white&logo=expo)
+![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logoColor=white&logo=trello)
 ___
 ### PROJECTS
 ___

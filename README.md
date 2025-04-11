@@ -11,7 +11,7 @@
 </div>
 
 ### ABOUT ME
-> <b>Full-stack developer, driven by a constant desire to learn, design, and create. I find deep value in trying to understand how things work and using that knowledge to build something personal and meaningful to me. Learning is not just a step to overcome, it is a nonstop effort. I'm always striving to do more, to explore new ideas, and to turn my curiosity into "something".</b>
+> <b>Full-stack developer, driven by a constant desire to learn, design, and create. I find deep value in trying to understand how things work and using that knowledge to build something personal and meaningful to me. Learning is not just a step to overcome, it is a nonstop effort. I enjoy the process and take pride in it, especially in working through the hard parts. I strive to do more, to explore new ideas, and to turn my curiosity into "something". I hope to inspire by showing my works and leave something worthwhile.</b>
 #### Let's get to know each other.
 nguyenlucasv@gmail.com
 ___

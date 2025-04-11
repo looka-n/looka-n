@@ -1,4 +1,4 @@
-# welcome. ☕🌿
+# 𝑤𝑒𝑙𝑐𝑜𝑚𝑒 ☕🌿
 [![](./assets/banner.png)](#)
 <div align="center">
 <pre>

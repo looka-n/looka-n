@@ -37,4 +37,24 @@ ___
 ![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logoColor=white&logo=trello)
 ___
 ### PROJECTS
+<div align="center">
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/looka-n/rift-melee" target="_blank" rel="noopener noreferrer">rift-melee</a></td>
+    <td>A League of Legends-inspired platform fighter. Play as your favorite champions in a new way.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/looka-n?tab=repositories">View all projects</a></td>
+  </tr>
+</tbody>
+</table>
+</div>
+
 ___

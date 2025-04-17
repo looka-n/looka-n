@@ -1,5 +1,5 @@
 # 𝑤𝑒𝑙𝑐𝑜𝑚𝑒 ☕🌿
-[![Welcome](./assets/banner.png)](#)
+[![Welcome](./src/_banner.png)](#)
 
 <div align="center">
 <pre>

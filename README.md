@@ -48,11 +48,11 @@ ___
 <tbody>
   <tr>
     <td><a href="https://github.com/looka-n/rift-melee" target="_blank" rel="noopener noreferrer">rift-melee</a></td>
-    <td>A League of Legends-inspired platform fighter. Play as your favorite champions in a new way.</td>
+    <td>A League of Legends-inspired platform fighter.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/looka-n/mobile-journal" target="_blank" rel="noopener noreferrer">mobile-journal</a></td>
-    <td></td>
+    <td>Minimalist journaling app.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/looka-n/expense-manager" target="_blank" rel="noopener noreferrer">expense-manager</a></td>
